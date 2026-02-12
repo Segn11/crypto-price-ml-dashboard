@@ -50,3 +50,5 @@ This consistent flow keeps the Streamlit deployment in lockstep with the model t
 - **App**: Streamlit with matplotlib for visualization
 
 For questions or collaboration ideas, feel free to reach out via the repository’s issue tracker or preferred contact channel.
+## Deployement
+- **App**: https://crypto-price-ml-dashboard-esvsawgjtfappe8tms4pguw.streamlit.app/
