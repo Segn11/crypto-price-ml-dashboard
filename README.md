@@ -1,6 +1,3 @@
-Segni, this is already solid 👏 — but we can make it **cleaner, more executive-level, and portfolio-ready** so it looks like a serious production ML deployment.
-
-Here’s a **more professional, recruiter-ready, and GitHub-polished version** of your README:
 
 ---
 
