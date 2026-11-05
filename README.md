@@ -1,5 +1,4 @@
 
-
 ---
 
 # 🚀 Cryptocurrency Closing Price Predictor
